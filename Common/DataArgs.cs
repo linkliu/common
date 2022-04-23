@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace ColorBall.Mod.Common
+namespace Common
 {
 	public class DataArgs
 	{

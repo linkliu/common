@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Diagnostics;
-namespace ColorBall.Mod.Common
+namespace Common
 {
 	public class EventManager
 	{

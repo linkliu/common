@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ColorBall.Mod.Common
+namespace Common
 {
 	public class BaseManager
 	{
